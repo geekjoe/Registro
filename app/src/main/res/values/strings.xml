@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="label_name">Nombre Completo</string>
+    <string name="label_date">Fecha de Nacimiento</string>
+    <string name="label_phone">Teléfono</string>
+    <string name="onClick_name">SetDate</string>
+    <string name="label_email">Email</string>
+    <string name="label_description">Descripción del Contacto</string>
+    <string name="ems_value">10</string>
+    <string name="tl_confirmation">Confirmar Datos</string>
+    <string name="tl_button_edit">Editar Datos</string>
+
+</resources>
